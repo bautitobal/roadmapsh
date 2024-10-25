@@ -57,4 +57,5 @@ For questions or collaboration ideas, feel free to [contact me](mailto:bautitoba
 
 ## Donations
 Donations and contributions will always be appreciated!
+
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bautitobal) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bautitobal)

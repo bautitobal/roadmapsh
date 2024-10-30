@@ -36,6 +36,7 @@ List of all projects and their URL's
 #### 💻 Frontend Projects
 
 - [Single-Page CV](/Frontend-roadmap/01-single-page-cv/)
+- [Basic HTML Website](/Frontend-roadmap/02-basic-html-website/)
 
 ## 👨‍💻 Technologies and tools
 
